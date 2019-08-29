@@ -1,0 +1,7 @@
+#+TITLE: Todo
+
+* Tasks
+** TODO Take capture code from revery examples
+[[file:~/Code/Repositories/revery/examples/ScreenCapture.re::let%20component%20=%20React.component("Capture%20Area");][Capture from Examples]]
+** TODO Run shell command for screencapture
+[[https://github.com/Schniz/fnm/blob/fa652764747ebeddc30382baf4a49a3ced93e5f5/library/System.re][Unix Exec]]
